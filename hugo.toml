@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Shubham Pharande'
+theme = "paper"
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'TheComputeGuy'                 # github.com/YOUR_GITHUB_ID
+  linkedin = 'shubham-pharande'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  rss = true                                # show rss icon
+
+  # home page profile
+  name = 'Shubham Pharande'
+  bio = 'Minimalist Engineer'
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  math = true                               # enable KaTex math typesetting globally
