@@ -2,6 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Shubham Pharande'
 theme = "paper"
+sectionPagesMenu = 'main'
+
 
 [params]
   # color style
