@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://thecomputeguy.github.io/'
 languageCode = 'en-us'
 title = 'Shubham Pharande'
 theme = "paper"
@@ -16,7 +16,7 @@ sectionPagesMenu = 'main'
 
   # home page profile
   name = 'Shubham Pharande'
-  bio = 'Minimalist Engineer'
+  bio = 'Minimalist Computerphile'
 
 
   # misc

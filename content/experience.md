@@ -32,15 +32,15 @@ I've been working on large-scale government and enterprise projects since the su
 * **Skills** - Java, Python, Javascript, Docker, Kubernetes, Product Management
 
 ### Co-Founder at Project Bridge
-#### Remote (India) | December 2019 - January 2022 | Part-time
+#### Remote | December 2019 - January 2022 | Part-time
 * Project Bridge was an initiative to build a student community to help each other grow. It was a great learning curve for me to understand not just how to build technology, but how to get people to use it.
 * I contributed to building the technology supporting the platform for Project Bridge, including the [Android app](https://play.google.com/store/apps/details?id=com.maverick.bridge), the website and a whole host of hacky services that made up our backend, including Firebase and Google App Scripts.
-* Working outside the tech domain was the bigger learning - including how to get your team to believe in your vision and how to get customers to believe in what you are trying to do.
-* Although we did not turn into a startup or a large platform, I gained valuable skills in people management, product management and marketing, which *might* not be learnt as effectively in a B-school classroom.
+* Working outside the technology domain was the bigger learning - including how to get your team to believe in your vision and how to get customers to believe in what you are trying to do.
+* Although Project Bridge did not manifest into a startup or a large platform, I gained valuable skills in people management, product management and marketing, which *might* not be learnt as effectively in a B-school classroom.
 
 ### Software Engineering Intern at [Fidelity Investments](https://www.fidelity.com/)
 #### Chennai, India | May - July 2019 | Internship
-* As part of my first corporate role, I built a web-based video conferencing system (before the pandemic-fueled boom of Zoom and friends)
+* In my first corporate role, I built a web-based video conferencing system (before the pandemic-fueled boom of Zoom and friends)
 * I studied and used WebRTC and socket programming towards this goal, including by building a screen-sharing functionality and live chat from scratch.
 * I also built a role-based authorization framework to provide additional privileges to the meeting host, a session server and other utilities.
 * The system was deployed to AWS, giving me a taste of server administration and devops. I utilized a combination of shell scripts and Docker to build a playbook for deployment.

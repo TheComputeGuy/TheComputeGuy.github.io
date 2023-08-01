@@ -3,7 +3,7 @@ title: "Contact"
 menu: "main"
 ---
 
-The best way to contact me is via email - shubhampharande8[at]gmail.com
+The best way to contact me is via email - shubhampharande8[at]gmail[dot]com
 
 Here are some of my other profiles that you might be interested in:
 
