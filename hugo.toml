@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Shubham Pharande'
 theme = "paper"
 sectionPagesMenu = 'main'
+googleAnalytics = "G-J7T15N5KPG"
 
 
 [params]
