@@ -19,6 +19,9 @@ googleAnalytics = "G-J7T15N5KPG"
   name = 'Shubham Pharande'
   bio = 'Minimalist Computerphile'
 
+  # site metadata
+  description = "Shubham's personal website"
+
 
   # misc
   disableHLJS = true                        # disable highlight.js
