@@ -8,7 +8,7 @@ Hello there! I am Shubham, an electrical engineer who loves machines and minimal
 
 Starting off from embedded and microcomputing, I moved to enterprise software development. Nowadays, I take a keen interest in cybersecurity, specifically threat hunting, cyber defence and blue team practices. I research web malware at Georgia Tech's [Cyber Forensics Innovation Lab](https://cyfi.ece.gatech.edu/). I am currently a Master's student in Electrical and Computer Engineering at Georgia Tech, aiming to graduate in the Spring of 2024.
 
-You can find a copy of my résumé [here](https://drive.google.com/file/d/1o_-lHWdX2mGFJoy70nqkh5zEO3OspEKZ/view?usp=sharing).
+You can find a copy of my résumé [here](https://drive.google.com/file/d/1Yc4JxV1c7djOmQ3VO82yVMRPJWVi9_q5/view?usp=sharing).
 
 You can read more about my professional experience [here](/experience).
 
