@@ -4,6 +4,14 @@ title: "Projects"
 
 Some projects that I enjoyed building:
 
+### NoSkim
+* NoSkim was developed as a part of a research study about server-side credit card skimmers on ecommerce websites.
+* It is a cloud-based sandbox which utilizes Regex and AST-based signatures, as well as controlled dynamic analysis to identify malicious code and data flows.
+* Following the flow of data from card skimmers, we also identify endpoints used by the attacker for data extraction - including email IDs, telegram chat IDs and FTP endpoints, with an **accuracy of 93%** and a **2% false positive rate**, with a 100% accuracy for Telegram-based exfiltration.
+* PHP malware is often distributed across multiple files, defeating simple automated static analysis. Therefore, a novel algorithm was used to identify files dependent on each other and the complete picture of the malware was created.
+* We neutralized **1041 varieties** of international financial and identity theft campaigns on compromised servers.
+
+
 ### [Kratos](https://github.com/TheComputeGuy/kratos)
 * Kratos is a web malware detection pipeline tailored for Content Management System (CMS) plugin files.
 * Kratos was developed as a part of a research study on the prevalence and types of malware present in nulled CMS plugin files downloaded from the web, torrents and Telegram-based marketplaces.
@@ -21,7 +29,3 @@ Some projects that I enjoyed building:
 ### [Request X-Ray](https://github.com/TheComputeGuy/request-xray)
 * Built a webservice intended to intercept and act as a man-in-the-middle, to read-through HTTP requests made to various services from an app
 * The tool forwards requests and response appropriately, while storing request information like headers, body and query params to help application teams triage incidents with their APIs
-
-### [Diabetic Retinopathy (DR) Severity Evaluation](https://drive.google.com/file/d/1vsfcpJQxfufbsKqeh0HtFjrHPd5B__d2/view?usp=sharing)
-* Used computer vision techniques to build a deep learning algorithm to evaluate DR severity from eye images
-* Used InceptionV3 architecture and weighted cross-entropy, among others to gain a weighted F1 score of 0.537

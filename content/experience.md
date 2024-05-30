@@ -4,30 +4,30 @@ title: "Professional Experience"
 
 I've been working on large-scale government and enterprise projects since the summer of my sophomore year in 2018. Here are some glimpses of my work experience:
 
+### Security Researcher at [CyFI Lab](https://cyfi.ece.gatech.edu/)
+#### Atlanta, GA | August 2022 - May 2024 | Part-time
+* As I started my graduate school, I joined [Prof. Brendan Saltaformaggio's](https://saltaformaggio.ece.gatech.edu/) CyFI Lab as a malware researcher, where I conducted two research projects - one on server-side credit card skimmers, and another on ad fraud using Electron-based cross-platform malware.
+* I developed multiple malware detection pipelines, which utilized many concepts in malware analysis, including - deobfuscation, static analysis, data flow traceback and file clustering, many of which aren't supported via libraries in PHP or Python.
+* The highlight for me was developing a clustering algorithm - skimmer malware tends to be split over multiple files spread all over the filesystem. I utilized static and controlled dynamic analysis to develop a clustering algorithm that identified linked and imported files.
+* For Windows malware, I designed a new Windows 10 sandbox, which would execute binaries, capture network traffic and obtained related forensic artifacts, all in an automated fashion. This was a strong alternative to the dated Cuckoo sandbox.
+* I also built a CI/CD workflow to run the malware detection workloads on AWS, utilizing containerization and AWS services like Batch and Lambda.
+* **Skills** - Python, Web Malware Analysis, Academic Research, Docker, AWS
+
 ### Cybersecurity Intern at [Visa Inc.](https://usa.visa.com/)
 #### Denver, CO | May - August 2023 | Internship
 * As a cybersecurity intern at Visa, I developed a threat history and IP reputation database to track malicious web scanners and identify their *modus operandi*.
 * The aim was to improve automated detection systems, tune alerts and reduce the mean-time-to-respond, reducing the visibility that attackers get into Visa's network.
-* Utilizing various open-source and proprietary data sources, attack patterns, origin and behaviours were identified and recorded.
-* A historical database of tactics, techniques and procedures (TTPs) was generated, useful for incident response.
+* Utilizing various open-source and proprietary threat intelligence feeds, attack patterns, origin and behaviours were identified and recorded.
+* A historical database of tactics, techniques and procedures (TTPs) was generated, cataloging over 200 unique indicators useful for incident response.
 * Techniques like threading, queues and locks were leveraged to build a scalable system suitable to be deployed to production.
 * **Skills** - Python, Cybersecurity Automation, Elasticsearch, Splunk, IBM QRadar, Ansible
-
-### Security Researcher at [CyFI Lab](https://cyfi.ece.gatech.edu/)
-#### Atlanta, GA | August 2022 - Present | Part-time
-* As I started my graduate school, I joined [Prof. Brendan Saltaformaggio's](https://saltaformaggio.ece.gatech.edu/) CyFI Lab as a web malware researcher.
-* Building on top of previous work in the Content Management Systems (CMS) space, we researched server-side digital credit card skimmers.
-* I developed the malware detection pipeline, which included many features including - deobfuscation, static analysis, data flow traceback and file clustering, many of which aren't supported via libraries in PHP or Python.
-* The highlight for me was developing a clustering algorithm - skimmer malware tends to be split over multiple files spread all over the filesystem. I utilized static analysis and PHP language features to develop a clustering algorithm that identified linked and imported files.
-* I also built a CI/CD workflow to run the malware detector workloads on AWS, utilizing containerization and AWS services like Batch and Lambda.
-* **Skills** - Python, Web Malware Analysis, Academic Research, Docker, AWS
 
 ### Software Engineer at [Fidelity Investments](https://www.fidelity.com/)
 #### Remote (India) | August 2020 - August 2022 | Full-time
 * In my first full-time role, I worked on Netbenefits, Fidelity's 401k product. I worked as a full-stack software engineer on the Netbenefits Homepage team.
 * My work at Fidelity ranged from improving coarse-grained authorization ('Entitlements') systems, developing accessible user interfaces and building a cloud-based cache system for a heavily-used API, among others.
-* The highlight of my time at Fidelity was working on a full system rewrite from scratch - the architecture and capacity planning discussions, performance testing and design discussions were a great learning curve. We rebuilt the Netbenefits homepage to have a modern and accessible UI, and modularized for maintainability.
-* I also got to learn and play with AWS (Solutions Architect - Associate certified, various internal projects), Docker and Kubernetes (by migrating apps from AWS ECS onto Kubernetes), which built my skills in DevOps.
+* The highlight of my time at Fidelity was leading a full system rewrite from scratch - the architecture and capacity planning discussions, performance testing and design discussions were a great learning curve. We rebuilt the Netbenefits homepage to have a modern and accessible UI, and modularized for maintainability.
+* I also got to learn and play with AWS (Solutions Architect - Associate [certified](https://drive.google.com/file/d/1e-ZqUa1LIBAhvFBYBAbjKOaCU6CwuxEt/view?usp=sharing), various internal projects), Docker and Kubernetes (by migrating applications from AWS ECS onto Kubernetes), which built my skills in DevOps.
 * As an aside, owing to the impact of the pandemic, I was able to try additional roles in the team temporarily, including that of a scrum master. This was a rewarding experience, allowing me to look beyond the clouds into the world of business and product management.
 * **Skills** - Java, Python, Javascript, Docker, Kubernetes, Product Management
 

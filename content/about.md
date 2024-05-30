@@ -6,7 +6,7 @@ description: "About me - Shubham Pharande. An engineer dabbling in computers, li
 
 Hello there! I am Shubham, an electrical engineer who loves machines and minimalism. I am fascinated by computers, right from the electrons flowing down in the circuitry, up to the complex ML models/$fad_of_the_day running way up, on top of the stack.
 
-Starting off from embedded and microcomputing, I moved to enterprise software development. Nowadays, I take a keen interest in cybersecurity, specifically threat hunting, cyber defence and blue team practices. I research web malware at Georgia Tech's [Cyber Forensics Innovation Lab](https://cyfi.ece.gatech.edu/). I am currently a Master's student in Electrical and Computer Engineering at Georgia Tech, aiming to graduate in the Spring of 2024.
+Starting off from embedded and microcomputing, I moved to software engineering. Nowadays, I take a keen interest in cybersecurity, specifically threat hunting, cyber defence and blue team practices. I also researched malware at Georgia Tech's [Cyber Forensics Innovation Lab](https://cyfi.ece.gatech.edu/). I recently graduated with a [Master's degree](https://www.parchment.com/u/award/e8f9431e8eff021cf28d189cc57c7d56) in Electrical and Computer Engineering from Georgia Tech.
 
 You can find a copy of my résumé [here](https://drive.google.com/file/d/1Yc4JxV1c7djOmQ3VO82yVMRPJWVi9_q5/view?usp=sharing).
 
