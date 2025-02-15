@@ -9,9 +9,10 @@ My key skills are:
 * **Programming**
   * *Languages* - Python, Java (+Spring, Spring Boot), Javascript (Node.js, Typescript, Angular included), C++
   * *Tools* - Regex, SQL, Linux, Redis
+  * *Techniques* - Web Development (Full Stack), Generative AI and Agentic Frameworks
   
 * **Cybersecurity**
-  * *Tools* - IDA Pro, Wireshark, Burp Suite, Elasticsearch, Kibana, Splunk, IBM QRadar, Splunk Phantom, x86 Assembly, Bash, Powershell
+  * *Tools* - IDA Pro, Wireshark, Burp Suite, Elasticsearch, Kibana, Splunk, IBM QRadar SOAR, Splunk Phantom SOAR, x86 Assembly, Bash, Powershell
   * *Techniques* - OWASP Top 10, MITRE ATT&CK, Malware Analysis (Static and Dynamic), Threat Hunting
   * *Interests* - Web, App and API Security, Automation, Threat Research, Blue Team, Forensics
 

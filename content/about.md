@@ -1,7 +1,7 @@
 ---
 title: "About me"
 menu: "main"
-description: "About me - Shubham Pharande. An engineer dabbling in computers, living the minimalist life"
+description: "About me - Shubham Pharande. An engineer dabbling in computers"
 ---
 
 Hello there! I am Shubham, an electrical engineer who loves machines and minimalism. I am fascinated by computers, right from the electrons flowing down in the circuitry, up to the complex ML models/$fad_of_the_day running way up, on top of the stack.
@@ -18,6 +18,6 @@ You can see a selected set of my projects [here](/projects).
 
 ---
 
-When I am not tinkering, you can find me skimming through Hacker News or my RSS feed, learning español *con Duolingo*, geeking about Formula 1 or aviation or die-cast cars, reading or listening to a detective story, hiking/exploring nature, or stargazing if it is a clear starry night.
+When I am not tinkering, you can find me skimming through Hacker News or my RSS feed, learning español *con Duolingo*, geeking about Formula 1 or aviation or die-cast cars, reading a detective story, hiking/exploring nature, or stargazing if it is a clear starry night.
 
 I am a keen proponent of privacy on the internet and the open web, and would love to contribute to these areas.

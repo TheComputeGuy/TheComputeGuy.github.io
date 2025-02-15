@@ -4,6 +4,9 @@ title: "Projects"
 
 Some projects that I enjoyed building:
 
+### Open Source Contributions
+* Mozilla Firefox (Desktop)
+
 ### NoSkim
 * NoSkim was developed as a part of a research study about server-side credit card skimmers on ecommerce websites.
 * It is a cloud-based sandbox which utilizes Regex and AST-based signatures, as well as controlled dynamic analysis to identify malicious code and data flows.

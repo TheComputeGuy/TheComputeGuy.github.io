@@ -1,6 +1,6 @@
 baseURL = 'https://thecomputeguy.github.io/'
 languageCode = 'en-us'
-title = 'Shubham Pharande'
+title = "A Codesmith's Log"
 theme = "paper"
 sectionPagesMenu = 'main'
 googleAnalytics = "G-J7T15N5KPG"
@@ -17,7 +17,7 @@ googleAnalytics = "G-J7T15N5KPG"
 
   # home page profile
   name = 'Shubham Pharande'
-  bio = 'Minimalist Computerphile'
+  bio = 'Computerphile'
 
   # site metadata
   description = "Shubham's personal website"

@@ -4,6 +4,16 @@ title: "Professional Experience"
 
 I've been working on large-scale government and enterprise projects since the summer of my sophomore year in 2018. Here are some glimpses of my work experience:
 
+### Cybersecurity Engineer at [Visa Inc.](https://usa.visa.com/)
+#### Denver, CO | June 2024 - Present | Full-time
+* Going back to corporate after school for 2 years, I joined the cybersecurity automation team in Visa as a cybersecurity engineer. The title is a misnomer though, my role had a solid overlap of software and cybersecurity.
+* My primary role was to develop cybersecurity automations which helped Visa's cyberdefense, detection engineering, endpoint engineering, data loss prevention and network security teams. I am fortunate to be able to touch almost all aspects of cybersecurity while doing the work I enjoy the most - writing software.
+* The primary highlight of my work at Visa was Legatus, a generative AI driven agentic framework, designed to emulate an entry-level cybersecurity analyst doing incident response. We built Legatus from scratch at Visa, and by designing robust integration interfaces before MCP (Model Context Protocol) existed, using standard design principles and context engineering, we built a reliable agentic framework.
+* Along with a myriad of cyberdefense use cases, I took an active part in designing secure ways for Legatus to run AI-generated Python code in a sandboxed environment, as well as designing an in-house version of computer use for the browser, to investigate suspicious weblinks.
+* Another exciting capability that I built for Legatus was to plan and execute highly specific technical tasks simply from a textual description of a standard operating procedure with zero human involvement.
+* Apart from Legatus, I worked on developing and maintaining over 200 automation scripts and a SOAR-based automation framework developed by our team, writing algorithms for credential discovery, applying traditional ML for network security and data-loss prevention, etc.
+* **Skills** - Python, Django, IBM QRadar SOAR, Splunk Phantom SOAR, Elasticsearch, Splunk, Ansible, Docker
+
 ### Security Researcher at [CyFI Lab](https://cyfi.ece.gatech.edu/)
 #### Atlanta, GA | August 2022 - May 2024 | Part-time
 * As I started my graduate school, I joined [Prof. Brendan Saltaformaggio's](https://saltaformaggio.ece.gatech.edu/) CyFI Lab as a malware researcher, where I conducted two research projects - one on server-side credit card skimmers, and another on ad fraud using Electron-based cross-platform malware.
